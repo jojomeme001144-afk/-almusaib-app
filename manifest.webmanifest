@@ -1,0 +1,28 @@
+{
+  "id": "/-almusaib-app/",
+  "name": "فريق أهالي المسيب التطوعي",
+  "short_name": "فريق أهالي المسيب",
+  "description": "نظام إدارة العوائل والمساعدات لفريق أهالي المسيب التطوعي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/-almusaib-app/",
+  "scope": "/-almusaib-app/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#064e3b",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
